@@ -1,4 +1,4 @@
-# Tripmate-AI---Multi-agent-travel-planner-with-LangGraph
+# Tripmate-AI-Multi-agent-travel-planner-with-LangGraph
 
 
 ## How to run?
